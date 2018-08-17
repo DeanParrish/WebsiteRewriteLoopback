@@ -38,5 +38,9 @@
   "testNameModel": {
     "dataSource": "db",
     "public": true
+  },
+  "TestModel": {
+    "dataSource": "accountDS",
+    "public": true
   }
 }
